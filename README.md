@@ -1,1 +1,1 @@
-# Public_Neuroimaging_Datasets
+# Public Neuroimaging Datasets
