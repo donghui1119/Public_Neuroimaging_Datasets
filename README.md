@@ -1,6 +1,5 @@
 # Public Neuroimaging Datasets
 
-## HCP series
 
 ## HCP Healthy Adult
 
@@ -175,6 +174,25 @@ https://neurovault.org/
 
 A place where researchers can publicly store and share unthresholded statistical maps, parcellations, and atlases produced by MRI and PET studies.
 
+
+## List of neuroscience databases from wiki
+
+https://en.wikipedia.org/wiki/List_of_neuroscience_databases
+
+
+A number of online neuroscience databases are available which provide information regarding gene expression, neurons, macroscopic brain structure, and neurological or psychiatric disorders. Some databases contain descriptive and numerical data, some to brain function, others offer access to 'raw' imaging data, such as postmortem brain sections or 3D MRI and fMRI images. Some focus on the human brain, others on non-human.
+
+
+## multiBrain
+
+https://github.com/Conxz/multiBrain
+
+A list of brain imaging databases with multiple (e.g., more than 3) scans per subject. Feel free to update the list via 'pull requests'.
+
+
+## re3data 
+
+https://www.re3data.org/search?query=neuroimaging
 
 ## figshare
 
