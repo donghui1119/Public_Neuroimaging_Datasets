@@ -230,6 +230,11 @@ https://dataverse.nl/
 
 DataverseNL is a publicly accessible data repository platform, open to researchers of affiliated institutes and their collaborators to deposit and share research data openly with anyone. It facilitates making your research data FAIR (Findable, Accessible, Interoperable, Reusable).
 
+## Scientific data 
+
+https://www.nature.com/sdata/#search-menu
+
+
 ## Google dataset search 
 
 https://datasetsearch.research.google.com/
